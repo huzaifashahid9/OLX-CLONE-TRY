@@ -1,0 +1,26 @@
+.poppins-medium {
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+
+
+
+  html{
+    font-family: "Poppins", sans-serif;
+    color: #002f34;
+  }
+
+  .logo{
+    color: #002f34;
+    font-weight: 800;
+    letter-spacing: 2;
+    text-decoration: none;
+    font-size: 3rem;
+    padding: 10px;
+    letter-spacing: 2;
+  }
+
+  .bg-foot{
+    background-color: #ebeeef;
+  }
